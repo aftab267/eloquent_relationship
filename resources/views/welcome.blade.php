@@ -16,7 +16,7 @@
             <div class="col-sm 12">
 
                     <h2 class="text-center my-3">Elequent Relationship</h2>
-                    <table class="table table-bordered">
+                    <table class="table table-bordered table-striped">
                         <thead>
                             <tr>
                                 <th>Name</th>

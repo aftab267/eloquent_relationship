@@ -7,7 +7,7 @@ use App\Models\phone;
 
 
 
-Route::get('/', function () {
+/*Route::get('/', function () {
     $phone=User::find(1);
     $phone=User::find(2)->phone;
     //return $phone;
@@ -19,4 +19,4 @@ Route::get('/', function () {
     //return $users;
 
     return view('welcome',compact('users'));
-});
+});*/
