@@ -27,7 +27,7 @@
                             @foreach( $users as $data)
                             <tr>
                                 <td>{{ $data->name }}</td>
-                                <td>{{ $data->phone->name }}</td>
+                                <td>{{ $data->aftab->name }}</td>
                             </tr>
                             @endforeach
                         </tbody>
